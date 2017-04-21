@@ -1,0 +1,16 @@
+gdbn==0.1
+gnumpy==0.2
+joblib==0.10.3
+Lasagne==0.1
+nolearn==0.6.0
+numpy==1.11.2
+protobuf==3.1.0
+scikit-learn==0.18
+scipy==0.18.1
+six==1.10.0
+tabulate==0.7.5
+tensorflow==0.12.0rc0
+Theano==0.8.0
+pyTelegramBotAPI==2.3.0
+requests==2.12.3
+six==1.10.0
